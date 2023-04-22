@@ -1,6 +1,6 @@
 # Goals
 
-# React, CSS
+# React, CSS, CSS modules, styled-components 
 
 Demo - https://goals-pbcn.onrender.com
 
